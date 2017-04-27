@@ -1,0 +1,211 @@
+
+
+.* {box-sizing: border-box}
+
+p {font-size: 40px}
+
+#github {height: 100px;
+width: 100px;
+margin-top: 10px
+}
+
+#linkedin {height: 100px;
+width: 100px}
+
+#facebook {height: 100px;
+width: 100px;
+margin-right: 20px}
+
+
+.top {background: white;
+height: 100px;
+width: 100%;
+border-style: solid;
+border-right-color : white;
+border-left-color: white;
+border-top-color: white;
+font-size: 20px}
+
+.YourName {float: left;
+font-size: 38px;
+background-color: teal;
+color: white;
+margin-left: 100px;
+height: 60px;
+padding: 20px}
+
+
+
+.about { float: left;
+padding:20px;
+margin-left: 900px}
+
+.firstdivide {float: left;
+padding: 20px}
+.portfolio {float: left;
+margin-left: 20px;
+padding: 20px;}
+.seconddivide {float: left;
+padding: 20px}
+.contact {float: left;
+margin-left: 20px;
+padding: 20px;
+}
+
+.AboutMe 
+{margin-left: 100px;
+margin-top: 100px;
+background: white;
+border-style: solid;
+border-width: 10px
+height: auto;
+width: 55%;
+position: absolute;
+}
+
+.boxtitle {margin-left: 20px;
+	margin-top: 40px;
+
+font-size: 40px}
+
+.greybreak {margin-left: 10px;
+	margin-right: 10px;
+height: 5px;
+background-color: grey}
+
+#BenPic {
+margin-left: 20px;
+margin-top: 10px;
+float: left;
+margin-right: 20px
+}
+
+.p1 {margin-top: 50px;
+	margin-left: 30px;
+	
+}
+.p2 {
+margin-left: 20px;
+}
+
+.p3 {margin-left: 20px}
+
+
+.Connect {float: right;
+background-color: white;
+margin-top: 100px;
+padding: 10px;
+border-style: solid;
+margin-right: 400px;
+
+}
+.connecttitle {margin-left: 45px;
+font-size: 30px}
+.greybreaktwo
+{margin-left: 10px;
+	margin-right: 10px;
+height: 5px;
+background-color: grey;
+margin-top: 10px}
+
+
+.me{background: tan;
+height: 800px;
+width: 100%;
+border-style: solid;
+border-bottom-color: teal;
+border-right-color: tan;
+border-left-color: tan;}
+
+.footer
+{background-color: grey;
+color: white;
+text-align: center;
+width: 100%;
+height: 100px;
+border-style: solid;
+border-top-color: teal;
+border-top-width: 4px;
+border-bottom-color: grey;
+border-right-color: grey;
+border-left-color:grey;
+}
+
+.portfolioportfolio {width: 50%;
+height: auto;
+border-style: solid;
+background: white;
+margin-top: 100px;
+margin-left: 100px;
+position: absolute;}
+.greybreakportfolio
+{width: auto;
+background-color: grey;
+height: 4px;}
+
+.a {float: left;}
+.aa {clear: both;
+	overflow: auto;
+}
+
+.span{
+background-color: grey;
+color: white;
+text-align: center;
+height: 20px;
+margin-top: 10px;
+margin-left: 10px;
+width: 150px;
+text-align: center;
+}
+
+
+.box1 {width: 150px;
+height: 150px;
+padding: 10px;
+max-height: 100%
+}
+
+.box2 {width: 150px;
+height: 150px;
+padding: 10px;
+max-height: 100%;
+}
+
+.box3 {width: 150px;
+height: 150px;
+padding: 10px;
+max-height: 100%;
+}
+
+.box4 {width: 200px;
+height: 150px;
+padding: 10px;
+max-height: 100%;
+}
+
+.box5 {width: 200px;
+height: 150px;
+padding: 10px;
+max-height: 100%;
+}
+
+.ultimatebox {
+	width: 50%;
+	height: auto;
+	background-color: white;
+	position: absolute;
+}
+
+.jsmith {border-style: solid;
+width: 90%;
+}
+.emptybox {width: 90%;
+height: 300px;
+border-style: solid;
+}
+.submitbutton {border-style: solid;
+	padding: 20px;
+	width: 80px;
+padding: 10px;
+margin-top: 30px}
